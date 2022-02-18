@@ -44,10 +44,26 @@
     background-color: #EEEEEE;
 }
 
+.wallet-resume {
+    background-color: #EEEEEE;
+}
+
+.wallet-resume-titre {
+    color: black;
+    padding: 0px 0px;
+    font-size: 22px;
+}
+
 .row {
     background-color: #EEEEEE;
 }
 
 .col-sm-6 {
     background-color: #EEEEEE;
+}
+
+.info-heure {
+    background-color: #00A7E3;
+    color: white;
+    padding: 5px;
 }
