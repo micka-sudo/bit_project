@@ -8,7 +8,7 @@
     border: 1px solid red;
 }
 
-.col-6, .col-3 {
+.col-sm-6, .col-sm-3 {
     border: 2px dashed green;
 }
 
@@ -52,6 +52,12 @@
     color: black;
     padding: 0px 0px;
     font-size: 22px;
+}
+
+.info-heure-wallet{
+    background-color: #00A7E3;
+    color: white;
+    padding: 5px;
 }
 
 .row {
