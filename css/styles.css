@@ -33,3 +33,21 @@
     font-size: 20px;
     background-color: lightsteelblue;
 }
+
+.last-trade-titre {
+    color: black;
+    padding: 0px 0px;
+    font-size: 22px;
+}
+
+.last-trade{
+    background-color: #EEEEEE;
+}
+
+.row {
+    background-color: #EEEEEE;
+}
+
+.col-sm-6 {
+    background-color: #EEEEEE;
+}
