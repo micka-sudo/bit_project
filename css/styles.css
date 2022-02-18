@@ -73,3 +73,19 @@
     color: white;
     padding: 5px;
 }
+
+.coin-amound {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.titre-btc{
+    display: flex;
+    justify-content: center;
+}
+
+.titre-btc-sous {
+    display: flex;
+    justify-content: center;
+}
