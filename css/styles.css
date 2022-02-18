@@ -4,12 +4,11 @@ body {
 
 .site-nav-bar {
     background-color: black;
-    font-size: 55px;
 }
 
 .nav .nav-item a {
     color: white;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .nav .nav-footer-item a {
